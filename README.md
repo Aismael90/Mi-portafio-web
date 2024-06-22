@@ -1,2 +1,2 @@
-# Mi-portafio-web
+# Mi-portafolio-web
 Conoce mi trabajo
